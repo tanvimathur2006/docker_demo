@@ -1,0 +1,5 @@
+Welcome email sent to alice@example.com
+Welcome email sent to bob@example.com
+Welcome email sent to charlie@example.com
+Welcome email sent to diana@example.com
+Welcome email sent to evan@example.com
